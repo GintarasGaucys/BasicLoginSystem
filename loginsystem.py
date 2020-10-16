@@ -72,6 +72,4 @@ while not done:
     else:
         print("Input not recognized.")
         done = isdone()
-        if done == True:
-            break
 
